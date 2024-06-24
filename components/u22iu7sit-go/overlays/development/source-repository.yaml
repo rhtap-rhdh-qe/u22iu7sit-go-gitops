@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: u22iu7sit-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/u22iu7sit-go
